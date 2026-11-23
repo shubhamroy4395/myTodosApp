@@ -15,9 +15,8 @@ Everything stays on your phone. There's no account and no internet.
 <p align="center">
   <img src="screenshots/themes.png" width="240" alt="Theme picker" />
 </p>
+<img width="627" height="1280" alt="WhatsApp Image 2026-11-23 at 10 13 50 PM" src="https://github.com/user-attachments/assets/7ab63801-5e32-4b15-a7b5-b19f12e2e8a6" />
 
----
-<img width="627" height="1280" alt="WhatsApp Image 2026-11-23 at 10 13 50 PM" src="https://github.com/user-attachments/assets/a9b2c771-1c0d-474b-b3df-dd855d239ee3" />
 
 ## Features
 
